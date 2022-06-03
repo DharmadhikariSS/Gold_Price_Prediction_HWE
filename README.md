@@ -15,5 +15,16 @@
 * Droping the whole row
 * Finding duplicates and removing them
 
+### Model Building
+* Achived most accuracy using:
+Halts Winter Exponential Smoothing   
 
+### Deployment
+* Deployed locally using steamlit (Python Library)
+
+### Deployment Video
 https://user-images.githubusercontent.com/53568754/171844422-f0b8450c-b672-4625-b02e-605da5faa435.mp4
+
+
+### Project Details (PDF)
+[Group_5-Presentation.pdf](https://github.com/DharmadhikariSS/Gold_Price_Prediction_HWE/files/8834464/Group_5-Presentation.pdf)
