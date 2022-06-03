@@ -15,6 +15,5 @@
 * Droping the whole row
 * Finding duplicates and removing them
 
-https://user-images.githubusercontent.com/53568754/171843603-f0b7f55b-a7af-411b-b180-9fd56ad12b5e.mp4
 
-
+https://user-images.githubusercontent.com/53568754/171844422-f0b8450c-b672-4625-b02e-605da5faa435.mp4
